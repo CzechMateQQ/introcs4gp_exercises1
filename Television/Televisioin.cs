@@ -6,36 +6,50 @@ using System.Threading.Tasks;
 
 namespace Television
 {
+    /// <summary>
+    /// The Television class demonstrates a basic class implementation.
+    /// </summary>
     class Television
     {
         private int currentChannel;
         private int currentVolume;
 
-        // increases the volume by one
+        /// <summary>
+        /// Increases the current volume of the TV by 1
+        /// </summary>
         public void increaseVolume()
         {
             currentVolume++;
         }
 
-        // decreases the volume by one
+        /// <summary>
+        /// Decreases the current volume of the TV by 1
+        /// </summary>
         public void decreaseVolume()
         {
             currentVolume--;
         }
 
-        // // returns the current volume
+        /// <summary>
+        /// Returns the current volume to the calling code.
+        /// </summary>
         public int volume()
         {
             return currentVolume;
         }
 
-        // increases the channel num by one
+        /// <summary>
+        /// Increases the channel by 1 step
+        /// </summary>
         public void increaseChannel()
         {
             currentChannel++;
         }
 
-        // decreases the channel num by one
+
+        /// <summary>
+        /// Decreases the channel by 1 step
+        /// </summary>
         public void decreaseChannel()
         {
             currentChannel--;
@@ -46,7 +60,6 @@ namespace Television
         /// <summary>
         /// This returns the currently selected channel.
         /// </summary>
-        /// <returns>the channel as an integer</returns>
         public int channel()
         {
             return currentChannel;
