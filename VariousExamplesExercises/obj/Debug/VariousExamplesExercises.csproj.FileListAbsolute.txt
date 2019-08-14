@@ -1,0 +1,6 @@
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\bin\Debug\VariousExamplesExercises.exe.config
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\bin\Debug\VariousExamplesExercises.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\bin\Debug\VariousExamplesExercises.pdb
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\obj\Debug\VariousExamplesExercises.csproj.CoreCompileInputs.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\obj\Debug\VariousExamplesExercises.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\VariousExamplesExercises\obj\Debug\VariousExamplesExercises.pdb

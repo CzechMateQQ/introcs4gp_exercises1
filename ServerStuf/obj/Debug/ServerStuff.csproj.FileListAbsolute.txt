@@ -1,0 +1,7 @@
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\bin\Debug\ServerStuf.exe.config
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\bin\Debug\ServerStuf.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\bin\Debug\ServerStuf.pdb
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\obj\Debug\ServerStuff.csprojAssemblyReference.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\obj\Debug\ServerStuff.csproj.CoreCompileInputs.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\obj\Debug\ServerStuf.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\ServerStuf\obj\Debug\ServerStuf.pdb

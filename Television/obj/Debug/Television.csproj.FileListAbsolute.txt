@@ -1,0 +1,7 @@
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\bin\Debug\Television.exe.config
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\bin\Debug\Television.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\bin\Debug\Television.pdb
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\obj\Debug\Television.csprojAssemblyReference.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\obj\Debug\Television.csproj.CoreCompileInputs.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\obj\Debug\Television.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\Television\obj\Debug\Television.pdb

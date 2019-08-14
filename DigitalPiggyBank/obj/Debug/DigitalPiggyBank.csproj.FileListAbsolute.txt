@@ -1,0 +1,6 @@
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\bin\Debug\DigitalPiggyBank.exe.config
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\bin\Debug\DigitalPiggyBank.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\bin\Debug\DigitalPiggyBank.pdb
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\obj\Debug\DigitalPiggyBank.csproj.CoreCompileInputs.cache
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\obj\Debug\DigitalPiggyBank.exe
+c:\users\jon.collins\source\repos\VariousExamplesExercises\DigitalPiggyBank\obj\Debug\DigitalPiggyBank.pdb
